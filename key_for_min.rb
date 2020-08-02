@@ -8,10 +8,9 @@ min_key = nil
 min_value = nil 
 
   hash.each do |key, value|
-    if  
+      if  
+      end
   
-    end
-  
-end 
+  end 
 end
 
