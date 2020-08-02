@@ -7,7 +7,7 @@ min_key = nil
 min_value = nil 
   hash.each do |key, value|
     if value[index] < value[index + 1]
-     
+     # return ... 
      min_key = lowest 
   end
   return lowest 
